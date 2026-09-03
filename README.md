@@ -5,7 +5,7 @@
 ![platform](https://img.shields.io/badge/platform-Windows-red)
 ![python](https://img.shields.io/badge/python-3.10%2B-yellow)
 ![GitHub issues](https://img.shields.io/github/issues/chase5ws/forward-tek_key_excel)
-![GitHub stars](https://img.shields.io/github/stars/chase5ws/forward-tek_key_excel)
+![GitHub stars](https://img.shields.io/githu b/stars/chase5ws/forward-tek_key_excel)
 ![GitHub forks](https://img.shields.io/github/forks/chase5ws/forward-tek_key_excel)
 ![icon](asset/icon.png)
 
